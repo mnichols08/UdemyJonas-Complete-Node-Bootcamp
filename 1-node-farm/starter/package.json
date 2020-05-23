@@ -1,0 +1,29 @@
+{
+  "name": "node-farm",
+  "version": "1.0.1",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Jonas Schmedtmann",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "~1.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnichols08/UdemyJonas-Complete-Node-Bootcamp.git"
+  },
+  "keywords": [
+    "udemy",
+    "tutorial"
+  ],
+  "bugs": {
+    "url": "https://github.com/mnichols08/UdemyJonas-Complete-Node-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/mnichols08/UdemyJonas-Complete-Node-Bootcamp#readme"
+}
